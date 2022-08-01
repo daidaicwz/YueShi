@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/drawable/jiantou.xml" value="0.1025" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/drawable/selector_button.xml" value="0.1025" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/drawable/switch_bg_normal.xml" value="0.1025" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/drawable/switch_white_circle_normal.xml" value="0.1025" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/drawable/yuanjiao.xml" value="0.1025" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/drawable/yuanjiao2.xml" value="0.1025" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout-v21/dialog_sex_update.xml" value="0.1671195652173913" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout-v21/fragment_community.xml" value="0.10052083333333334" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/activity_about.xml" value="0.22" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/activity_admin.xml" value="0.20364583333333333" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/activity_feed_back.xml" value="0.1671195652173913" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/activity_find_pwd.xml" value="0.1671195652173913" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/activity_login.xml" value="0.10052083333333334" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/activity_main.xml" value="0.10052083333333334" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/activity_post_detail.xml" value="0.10052083333333334" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/activity_post_topic.xml" value="0.1671195652173913" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/activity_regist.xml" value="0.10052083333333334" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/activity_setting.xml" value="0.10052083333333334" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/activity_spp.xml" value="0.20364583333333333" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/activity_user_profile.xml" value="0.20364583333333333" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/dailog_exit.xml" value="0.22" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/dialog_about.xml" value="0.1671195652173913" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/dialog_authorinfo.xml" value="0.1671195652173913" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/dialog_sex_update.xml" value="0.20364583333333333" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/dialog_update.xml" value="0.33" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/fragment_community.xml" value="0.10052083333333334" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/fragment_myinfo.xml" value="0.12" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/fragment_study.xml" value="0.20364583333333333" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/fragment_web.xml" value="0.20364583333333333" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/item_attendance.xml" value="0.25" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/item_comment.xml" value="0.10052083333333334" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/item_topic.xml" value="0.5" />
+        <entry key="..\:/newapp/Ncu_Community/app/src/main/res/layout/start_flash.xml" value="0.25" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/drawable-v24/select_button.xml" value="0.1425" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/drawable/btn_circle2.xml" value="0.1" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/drawable/btn_selector.xml" value="0.1" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/drawable/edit_choosecity_normal.xml" value="0.1" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.106" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/drawable/selector_button.xml" value="0.1425" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/drawable/yuanjiao1.xml" value="0.1425" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout-v21/dialog_sex_update.xml" value="0.25" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout-v21/fragment_community.xml" value="0.14" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_about.xml" value="0.11197916666666667" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_admin.xml" value="0.11197916666666667" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_attendance.xml" value="0.2" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_feed_back.xml" value="0.15579710144927536" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_find_pwd.xml" value="0.1125" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_gift.xml" value="0.19293478260869565" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_my_collection.xml" value="0.19293478260869565" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_my_history_view.xml" value="0.19293478260869565" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_my_post.xml" value="0.19293478260869565" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_post_detail.xml" value="0.25" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_post_topic.xml" value="0.25" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_regist.xml" value="0.15579710144927536" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_search.xml" value="0.18" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_setting.xml" value="0.14114583333333333" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_spp.xml" value="0.22" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_startapp.xml" value="0.128125" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/activity_user_profile.xml" value="0.1" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/dailog_exit.xml" value="0.14114583333333333" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/dialog_about.xml" value="0.15579710144927536" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/dialog_authorinfo.xml" value="0.11197916666666667" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/dialog_reset_passwords.xml" value="0.18" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/dialog_sex_update.xml" value="0.1125" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/dialog_update.xml" value="0.2" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/fragment_community.xml" value="0.15579710144927536" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/fragment_community_1.xml" value="0.16614583333333333" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/fragment_community_2.xml" value="0.19293478260869565" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/fragment_community_3.xml" value="0.19293478260869565" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/fragment_community_4.xml" value="0.19293478260869565" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/fragment_discovery.xml" value="0.2" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/fragment_myinfo.xml" value="0.3113207547169811" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/item_attendance.xml" value="0.25" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/item_comment.xml" value="0.25" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/item_gift.xml" value="0.22" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/item_topic.xml" value="0.33" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/layout/start_flash.xml" value="0.10052083333333334" />
+        <entry key="..\:/newapp/YueShi/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.106" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturityJava</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
